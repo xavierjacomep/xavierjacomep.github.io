@@ -22,15 +22,17 @@ Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 
 ## Blog
 
-<img align="left" width="250" height="130" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*rqpr8sqvLkr-qZyijSoMDw.png"> **[Aprovechando el Poder de Geohash para un Análisis Geoespacial Innovador y Práctico](https://medium.com/@xavier.jacome.p/aprovechando-el-poder-de-geohash-para-un-an%C3%A1lisis-geoespacial-innovador-y-pr%C3%A1ctico-f3db82051b48)**
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*rqpr8sqvLkr-qZyijSoMDw.png"> **[Aprovechando el Poder de Geohash para un Análisis Geoespacial Innovador y Práctico](https://medium.com/@xavier.jacome.p/aprovechando-el-poder-de-geohash-para-un-an%C3%A1lisis-geoespacial-innovador-y-pr%C3%A1ctico-f3db82051b48)**
 
-En este artículo explico cómo convertir la latitud y la longitud en códigos de geohash y luego crear polígonos correspondientes para su visualización.                                                                        
+En este artículo explico cómo convertir la latitud y la longitud en códigos de geohash y luego crear polígonos correspondientes para su visualización.                                                                        <br />
+<br />
 # 
 
-<img align="left" width="250" height="130" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*qX5ED02QetmLDseUaP-fnA.png"> **[Comprendiendo la precisión de los códigos Geohash](https://medium.com/@xavier.jacome.p/comprendiendo-la-precisi%C3%B3n-de-los-c%C3%B3digos-geohash-para-la-optimizaci%C3%B3n-de-an%C3%A1lisis-espaciales-c685a8e2b0f)**
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*qX5ED02QetmLDseUaP-fnA.png"> **[Comprendiendo la precisión de los códigos Geohash](https://medium.com/@xavier.jacome.p/comprendiendo-la-precisi%C3%B3n-de-los-c%C3%B3digos-geohash-para-la-optimizaci%C3%B3n-de-an%C3%A1lisis-espaciales-c685a8e2b0f)**
 
 La belleza de los códigos Geohash reside en su simplicidad y flexibilidad. ¿Cómo determinamos la precisión correcta para nuestro análisis? En este artículo responderemos a la pregunta planteada. 
-
+<br />
+<br />
 # 
 
 <br />
