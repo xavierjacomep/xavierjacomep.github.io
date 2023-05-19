@@ -16,8 +16,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "HOME.md", title: Home}
-  - {url: "ABOUTME.md", title: About me}
+  - {file: "README.md", title: Home}
+  - {file: "ABOUT_ME.md", title: About me}
   - {url: "http://childlanglab.com", title: Lab}
   - {file: "blog.md"}
 
