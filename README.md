@@ -16,8 +16,8 @@ Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 - Mejor Proyecto de Inteligencia Artificial en el Demo Day de Saturday's AI Guayaquil.
 - Matrícula de Honor en Investigación Cuantitativa. Maestría en Investigación de Mercados - Universidad Internacional de La Rioja.
 - Segundo Mejor Promedio Promoción 81 (9.71/10) de Ingenieros Comerciales de la Universidad Católica de Santiago de Guayaquil.
-- Mejor Alumno de la Carrera Administración de Empresas, períodos: B 2014, 2012-2013, B 2012.
-- Premio Filantrópica Mejor Alumno de la Carrera Administración de Empresas, año 2013.
+- Mejor Alumno de la Carrera Administración de Empresas, períodos: B 2014, 2012-2013, B 2012 - Universidad Católica de Santiago de Guayaquil.
+- Premio Filantrópica Mejor Alumno de la Carrera Administración de Empresas, año 2013 - Universidad Católica de Santiago de Guayaquil.
 - Beca 75% por Excelencia Académica en la Carrera Administración de Empresas - Universidad Católica de Santiago de Guayaquil.
 
 ## Blog
