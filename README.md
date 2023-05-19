@@ -26,16 +26,16 @@ Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 
 En este artículo explico cómo convertir la latitud y la longitud en códigos de geohash y luego crear polígonos correspondientes para su visualización.                                                                        <br />
 <br />
-# 
+
+___
 
 <img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*qX5ED02QetmLDseUaP-fnA.png"> **[Comprendiendo la precisión de los códigos Geohash](https://medium.com/@xavier.jacome.p/comprendiendo-la-precisi%C3%B3n-de-los-c%C3%B3digos-geohash-para-la-optimizaci%C3%B3n-de-an%C3%A1lisis-espaciales-c685a8e2b0f)**
 
 La belleza de los códigos Geohash reside en su simplicidad y flexibilidad. ¿Cómo determinamos la precisión correcta para nuestro análisis? En este artículo responderemos a la pregunta planteada. 
 <br />
 <br />
-# 
 
-<br />
+___
 
 
 ## Proyectos
@@ -44,8 +44,8 @@ La belleza de los códigos Geohash reside en su simplicidad y flexibilidad. ¿C�
 
 Análisis geoespacial que utiliza Geohash, un sistema de geocodificación de dominio público, para simplificar y acelerar las operaciones espaciales, como la clasificación y búsqueda. El caso de uso que se explora en este proyecto se basa en las geometrías de las unidades educativas en Guayaquil. 
 
-# 
-<br />
+___
+
 
 ## Micro Proyectos
 - ### Análisis Geoespacial
