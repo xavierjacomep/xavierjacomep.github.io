@@ -1,5 +1,5 @@
 
-title: "Xavier"
+title: "Xavier Jácome Piñeiros"
 author: "Xavier Jácome Piñeiros"
 description: "Portafolio de Ciencia de Datos"
 permalink: /:title/
@@ -16,8 +16,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md"}
-  - {url: "/katie.pdf", title: CV}
+  - {file: "HOME.md", title: Home}
+  - {url: "ABOUT_ME.md", title: About me}
   - {url: "http://childlanglab.com", title: Lab}
   - {file: "blog.md"}
 
