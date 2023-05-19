@@ -1,3 +1,37 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+
+title: "Xavier"
+author: "Xavier Jácome Piñeiros"
+description: "Portafolio de Ciencia de Datos"
+permalink: /:title/
+lang: "es"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+show_social: true         # show footer
+show_excerpts: false       # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "README.md"}
+  - {url: "/katie.pdf", title: CV}
+  - {url: "http://childlanglab.com", title: Lab}
+  - {file: "blog.md"}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:xavier.jacome.p@hotmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/xavierjacomep/"}
+  - {title: Github, icon: github, url: "https://github.com/xavierjacomep"}
+  - {title: Medium, icon: medium, url: "https://medium.com/@xavier.jacome.p"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/xavierjacome"}
+
+
+remote_theme: niklasbuschmann/contrast@v2.11
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-feed
