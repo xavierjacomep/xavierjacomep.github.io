@@ -21,6 +21,8 @@ Tengo diversas competencias, incluyendo Metodologías como Machine Learning, An�
 
 Gracias por visitar mi portafolio. Espero que disfrutes explorándolo tanto como yo disfruté trabajando en los proyectos que encontrarás aquí.
 
+___
+
 Si tienes alguna pregunta o te gustaría trabajar conmigo, por favor, no dudes en contactarme:
 
 <a href="mailto:xavier.jacome.p@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
