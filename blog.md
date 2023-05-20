@@ -16,7 +16,7 @@ En este artículo explico cómo convertir la latitud y la longitud en códigos d
 
 ___
 
-<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*qX5ED02QetmLDseUaP-fnA.png"> **[Comprendiendo la precisión de los códigos Geohash](https://medium.com/@xavier.jacome.p/comprendiendo-la-precisi%C3%B3n-de-los-c%C3%B3digos-geohash-para-la-optimizaci%C3%B3n-de-an%C3%A1lisis-espaciales-c685a8e2b0f)**
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qX5ED02QetmLDseUaP-fnA.png"> **[Comprendiendo la precisión de los códigos Geohash](https://medium.com/@xavier.jacome.p/comprendiendo-la-precisi%C3%B3n-de-los-c%C3%B3digos-geohash-para-la-optimizaci%C3%B3n-de-an%C3%A1lisis-espaciales-c685a8e2b0f)**
 
 La belleza de los códigos Geohash reside en su simplicidad y flexibilidad. ¿Cómo determinamos la precisión correcta para nuestro análisis? En este artículo responderemos a la pregunta planteada. 
 <br />
