@@ -26,9 +26,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:xavier.jacome.p@hotmail.com"}
   - {title: LinkedIn, icon: <i class="fa-brands fa-linkedin"></i>, url: "https://www.linkedin.com/in/xavierjacomep/"}
   - {title: Github, icon: github, url: "https://github.com/xavierjacomep"}
-  - {title: Medium, icon: medium, url: "https://medium.com/@xavier.jacome.p"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/xavierjacome"}
-
 
 remote_theme: niklasbuschmann/contrast@v2.11
 
