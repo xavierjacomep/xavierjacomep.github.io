@@ -3,7 +3,7 @@
 ¡Hola! Soy un científico de datos con una sólida experiencia en el análisis y modelado de grandes volúmenes de datos, especializándome en la aplicación de técnicas avanzadas de análisis geoespacial y machine learning.
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQEq2LpqTXVMqg/profile-displayphoto-shrink_200_200/0/1678695650086?e=1689811200&v=beta&t=FkkWV07jX0yAal91k8fd87oCzfEMeuwccuUiOB_k17c" alt="Imagen representativa"/>
+  <img src="https://drive.google.com/uc?export=view&id=1lrzQQfgcOMl-UMNy2115k3AAWZFiauuR" alt="Imagen de Perfil" width="250" height="250">
 </p>
 
 A lo largo de mi carrera, he trabajado extensamente con datos geoespaciales y machine learning para ayudar a las empresas a tomar decisiones más informadas y efectivas. Este portafolio presenta una selección de proyectos que ilustran estas habilidades y más. Cada uno es un testimonio de mi capacidad para manipular, analizar y traducir datos en insights útiles y accionables.
@@ -22,8 +22,3 @@ Tengo diversas competencias, incluyendo Metodologías como Machine Learning, An�
 Gracias por visitar mi portafolio. Espero que disfrutes explorándolo tanto como yo disfruté trabajando en los proyectos que encontrarás aquí.
 
 ___
-
-Si tienes alguna pregunta o te gustaría trabajar conmigo, por favor, no dudes en contactarme:
-
-<a href="mailto:xavier.jacome.p@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/xavierjacomep/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
