@@ -24,10 +24,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xavier.jacome.p@hotmail.com"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/xavierjacomep/"}
+  - {title: LinkedIn, icon: <i class="fa-brands fa-linkedin"></i>, url: "https://www.linkedin.com/in/xavierjacomep/"}
   - {title: Github, icon: github, url: "https://github.com/xavierjacomep"}
   - {title: Medium, icon: medium, url: "https://medium.com/@xavier.jacome.p"}
-  - {title: Twitter, icon: "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white", url: "https://twitter.com/xavierjacome"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/xavierjacome"}
 
 
 remote_theme: niklasbuschmann/contrast@v2.11
