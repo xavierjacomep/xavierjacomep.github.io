@@ -24,7 +24,3 @@ La belleza de los códigos Geohash reside en su simplicidad y flexibilidad. ¿C�
 
 ___
 
-Si tienes alguna pregunta o te gustaría trabajar conmigo, por favor, no dudes en contactarme:
-
-<a href="mailto:xavier.jacome.p@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/xavierjacomep/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
