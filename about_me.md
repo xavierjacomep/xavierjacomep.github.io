@@ -5,6 +5,8 @@
   <img src="https://drive.google.com/uc?export=view&id=1lrzQQfgcOMl-UMNy2115k3AAWZFiauuR" alt="Imagen de Perfil" width="250" height="250">
 </p>
 
+---
+
 ## Experiencia Laboral
 - Jefe de Analítica de Negocios en importante empresa de telecomunicaciones de América Latina. 
 <br> **_Diciembre 2021 - Presente_**
