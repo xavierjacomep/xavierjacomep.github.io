@@ -15,6 +15,13 @@ ___
 
 ## Proyectos de Visualización de Datos
 
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1684830802333x768163435378396400%2FCaptura%2520de%2520pantalla%25202023-05-23%2520033222.png?w=512&h=366&auto=true&dpr=1&fit=crop"> **[Análisis de Churn Telco](https://www.novypro.com/project/an%C3%A1lisis-de-churn)**
+
+Este tablero interactivo ofrece una representación clara y concisa de los patrones de abandono de clientes, brindando a las empresas una visión profunda de los factores que contribuyen al churn. Mediante el uso de técnicas avanzadas de visualización y análisis de datos, he proporcionado una solución efectiva para ayudar a las empresas a retener y fidelizar a sus clientes de manera estratégica.
+
+___
+
+
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonFireIncidentReporting&#47;BostonFireIncidentReporting&#47;1_rss.png"> **[Análisis de Reportes de incendios de Boston](https://public.tableau.com/views/BostonFireIncidentReporting/BostonFireIncidentReporting?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 Análisis de incidentes por día y hora, destacándose los principales barrios donde ocurrieron y cuáles fueron los principales tipos de incidentes reportados.
