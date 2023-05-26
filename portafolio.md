@@ -35,5 +35,8 @@ ___
 - ### Análisis Geoespacial
     - [Análisis de Precisión de Geohash](https://github.com/xavierjacomep/Geohash_Precision_Analysis) : Este repositorio contiene un Jupyter Notebook que explora la precisión de los códigos Geohash y cómo se correlaciona con las dimensiones físicas en la Tierra.
 
+- ### Análisis de Recursos Máquina
+    - [Información de recursos de CPU y GPU](https://github.com/xavierjacomep/System_Resource_Profiler) : Este script Python tiene el propósito de ofrecer un desglose rápido y completo de las características y recursos disponibles de la CPU y GPU en tu máquina.
+
 ___
 
