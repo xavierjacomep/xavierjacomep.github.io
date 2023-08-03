@@ -14,6 +14,7 @@ Espero que encuentres algo de valor en estas publicaciones. Si tienes alguna pre
 En este artículo, descubre la importancia de las pruebas de hipótesis, una herramienta muy útil en la toma de decisiones sobre promociones, que permite tomar decisiones basadas en datos, en lugar de suposiciones o corazonadas. 
 <br />
 <br />
+
 ___
 
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*rqpr8sqvLkr-qZyijSoMDw.png"> **[Aprovechando el Poder de Geohash para un Análisis Geoespacial Innovador y Práctico](https://medium.com/@xavier.jacome.p/aprovechando-el-poder-de-geohash-para-un-an%C3%A1lisis-geoespacial-innovador-y-pr%C3%A1ctico-f3db82051b48)**
