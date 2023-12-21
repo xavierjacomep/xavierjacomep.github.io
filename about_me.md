@@ -69,6 +69,15 @@
 
 ---
 
+## Ponencias, Charlas o Webinars
+- [Webinar](https://www.linkedin.com/feed/update/urn:li:activity:7143325588181716992/): **Machine Learning en la innovación empresarial: La ingeniería de características como promotor de modelos más precisos.** Sistema de Investigación y Desarrollo de la Universidad Católica de Santiago de Guayaquil - Diciembre 2023.
+- [Charla](https://www.linkedin.com/feed/update/urn:li:activity:7138676770404286466/): **Más Allá del Algoritmo: El Arte y la Ciencia del Feature Engineering aplicado al Machine Learning.** Facultad de Ingenierías de la Universidad ECOTEC - Diciembre 2023.
+- [Charla](https://www.linkedin.com/feed/update/urn:li:activity:7090736357567778816/): **¿Qué perfil profesional se requiere en áreas relacionadas a Business Analytics?.** Carrera de Economía de la Universidad Católica de Santiago de Guayaquil - Julio 2023.
+- [Webinar](https://www.linkedin.com/posts/xavierjacomep_emprendimientobasadoendatos-aezxitoempresarial-activity-7082091755751239681-OtIC?utm_source=share&utm_medium=member_desktop): **Emprendimiento basado en datos: un camino hacia el éxito empresarial.** Incubadora de Negocios INNOVUG de la Universidad de Guayaquil - Junio 2023.
+- [Ponencia](https://www.linkedin.com/feed/update/urn:li:activity:6975206262749736960/): **La Ciencia de Datos y su aplicación en un entorno empresarial.** Carrera de Licenciatura en Gestión de la Información Gerencial de la Universidad de Guayaquil - Septiembre 2022.
+
+---
+
 ## Publicaciones científicas
 - [Publicación](https://editorial.ucsg.edu.ec/ojs-alternativas/index.php/alternativas-ucsg/article/view/150): Portafolio de inversiones de empresas que no cotizan sus acciones en el mercado bursátil, Alternativas, 18(3), 107-112.
 - [Publicación](https://cladea.org/wp-content/uploads/2022/01/278Yanina-Bajana-Villagomez-Xavier-Jacome-Pineiros-Freddy-Camacho-Villagomez-and-Genesis-Basantes-Brunes-Caracterizacion-De-La-Administracion-Del-Capital-D.pdf): 278 Caracterización de la Administración del Capital de Trabajo y la Rentabilidad de las Pequeñas y Medianas Empresas de los Sectores Comercial e Industrial en Ecuador, Proceedings of CLADEA 2017.
