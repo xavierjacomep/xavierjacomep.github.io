@@ -69,7 +69,7 @@
 
 ---
 
-## Ponencias, Charlas o Webinars
+## Ponencias, Charlas y Webinars
 - [Webinar](https://www.linkedin.com/feed/update/urn:li:activity:7143325588181716992/): **Machine Learning en la innovación empresarial: La ingeniería de características como promotor de modelos más precisos.** Sistema de Investigación y Desarrollo de la Universidad Católica de Santiago de Guayaquil - Diciembre 2023.
 - [Charla](https://www.linkedin.com/feed/update/urn:li:activity:7138676770404286466/): **Más Allá del Algoritmo: El Arte y la Ciencia del Feature Engineering aplicado al Machine Learning.** Facultad de Ingenierías de la Universidad ECOTEC - Diciembre 2023.
 - [Charla](https://www.linkedin.com/feed/update/urn:li:activity:7090736357567778816/): **¿Qué perfil profesional se requiere en áreas relacionadas a Business Analytics?.** Carrera de Economía de la Universidad Católica de Santiago de Guayaquil - Julio 2023.
