@@ -3,7 +3,7 @@
 ¡Hola! Soy un científico de datos con una sólida experiencia en el análisis y modelado de grandes volúmenes de datos, especializándome en la aplicación de técnicas avanzadas de análisis geoespacial y machine learning.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lrzQQfgcOMl-UMNy2115k3AAWZFiauuR" alt="Imagen de Perfil" width="250" height="250">
+  <img src="https://avatars.githubusercontent.com/u/50842509?v=4" alt="Imagen de Perfil" width="250" height="250">
 </p>
 
 A lo largo de mi carrera, he trabajado extensamente con datos geoespaciales y machine learning para ayudar a las empresas a tomar decisiones más informadas y efectivas. Este portafolio presenta una selección de proyectos que ilustran estas habilidades y más. Cada uno es un testimonio de mi capacidad para manipular, analizar y traducir datos en insights útiles y accionables.
