@@ -18,6 +18,12 @@ Jupyter Notebook con la resolución del proyecto final del curso de Credit Scori
 
 ___
 
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://static.wixstatic.com/media/463754_c74ca51856d94b70abacbcbc7f6591e7~mv2.png/v1/fill/w_640,h_458,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/463754_c74ca51856d94b70abacbcbc7f6591e7~mv2.png"> **[Ecuador's top cities and their point of interests parish segmentation characteristics](https://github.com/xavierjacomep/IBM_Capstone_POIs_Clustering/)**
+
+Jupyter Notebook en el cual se analizó las dos principales ciudades de Ecuador y cómo se segmentan geográficamente en función de los puntos de interés que abarcan su territorio; se invoca al API places de Foursquare y se aplica la técnica de clustering KMeans.
+
+___
+
 
 ## Proyectos de Visualización de Datos
 
