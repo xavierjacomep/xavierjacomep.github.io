@@ -2,7 +2,7 @@
 ¡Hola! Soy **Xavier Jácome Piñeiros**, un científico de datos con una sólida experiencia en el análisis y modelado de grandes volúmenes de datos, especializándome en la aplicación de técnicas avanzadas de análisis geoespacial y machine learning.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lrzQQfgcOMl-UMNy2115k3AAWZFiauuR" alt="Imagen de Perfil" width="250" height="250">
+  <img src="https://avatars.githubusercontent.com/u/50842509?v=4" alt="Imagen de Perfil" width="250" height="250">
 </p>
 
 ---
