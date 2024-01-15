@@ -12,6 +12,12 @@ Análisis geoespacial que utiliza Geohash, un sistema de geocodificación de dom
 
 ___
 
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://www.nj.com/personal-finance/static/bc0aede681458fa8c305651034af8c4c/48efe/what-is-a-good-credit-score.jpg"> **[Análisis Crediticio implementando Optimal Binning con Python](https://github.com/xavierjacomep/CreditScoringSEE/)**
+
+Jupyter Notebook con la resolución del proyecto final del curso de Credit Scoring con Python de la Sociedad Ecuatoriana de Estadística. En este curso se implementó Scorecard de la librería optbinning como una opción para crear calificaciones crediticias utilizando modelos bases de machine learning.
+
+___
+
 
 ## Proyectos de Visualización de Datos
 
