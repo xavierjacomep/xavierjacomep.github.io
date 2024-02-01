@@ -6,6 +6,18 @@ Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 
 ## Proyectos de Ciencia de Datos
 
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="Calinski-Harabasz.png"> **[Clustering on discrete attributes and cluster characterization](https://github.com/xavierjacomep/Machine-Learning-Templates/blob/main/Unsupervised-Learning/Clustering/Clustering_on_discrete_attributes_and_cluster_characterization.ipynb)**
+
+Multiple Correspondence Analysis is used to create components from categorical features and then KMeans is applied to determine clusters. The Calinski-Harabasz index and the Elbow method are applied to determine the optimal number of clusters. The Test Value is used to characterize the clusters. 
+
+___
+
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://camo.githubusercontent.com/6f33842a08b42a1b7375c1e3d7fe815667a460a80800148a1cd5c8a81f670570/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e6c617465783f745f633d253543667261632537422537422535436d755f672532302d2532302535436d7525374425374425374225374225354373717274253742253543667261632537422537426e2532302d2532306e5f672537442537442537422537426e2532302d2532303125374425374425323025354374696d6573253230253543667261632537422537422535437369676d61253545322537442537442537422537426e5f67253744253744253744253744"> **[Test Value Criterion for group characterization (Criterio Test de Valor para caracterización de grupos)](https://github.com/xavierjacomep/TestValue-GroupCharacterization)**
+
+EN: Test Vaue Criterion is mainly used for the characterization of a group of observations according a variable, continuous or categorical. ESP: El Test de Valor se utiliza principalmente para la caracterización de un grupo de observaciones según una variable, continua o categórica.
+
+___
+
 <img style="margin-right: 10px;" align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*rqpr8sqvLkr-qZyijSoMDw.png"> **[Análisis Geoespacial con Geohash](https://github.com/xavierjacomep/Geohash_Spatial_Analysis)**
 
 Análisis geoespacial que utiliza Geohash, un sistema de geocodificación de dominio público, para simplificar y acelerar las operaciones espaciales, como la clasificación y búsqueda. El caso de uso que se explora en este proyecto se basa en las geometrías de las unidades educativas en Guayaquil. 
