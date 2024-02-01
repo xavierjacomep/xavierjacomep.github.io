@@ -6,7 +6,7 @@ Agradezco tu interés y te invito a explorar más. ¡Gracias por visitar!
 
 ## Proyectos de Ciencia de Datos
 
-<img style="margin-right: 10px;" align="left" width="250" height="150" src="portfolio_projects/Calinski-Harabasz.png"> **[Clustering on discrete attributes and cluster characterization](https://github.com/xavierjacomep/Machine-Learning-Templates/blob/main/Unsupervised-Learning/Clustering/Clustering_on_discrete_attributes_and_cluster_characterization.ipynb)**
+<img style="margin-right: 10px;" align="left" width="250" height="150" src="https://raw.githubusercontent.com/xavierjacomep/xavierjacomep.github.io/main/portfolio_projects/Calinski-Harabasz.png"> **[Clustering on discrete attributes and cluster characterization](https://github.com/xavierjacomep/Machine-Learning-Templates/blob/main/Unsupervised-Learning/Clustering/Clustering_on_discrete_attributes_and_cluster_characterization.ipynb)**
 
 Multiple Correspondence Analysis is used to create components from categorical features and then KMeans is applied to determine clusters. The Calinski-Harabasz index and the Elbow method are applied to determine the optimal number of clusters. The Test Value is used to characterize the clusters. 
 
