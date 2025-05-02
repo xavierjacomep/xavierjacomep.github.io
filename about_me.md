@@ -8,7 +8,7 @@
 ---
 
 ## Experiencia Laboral
-- Jefe de Analítica de Negocios en importante empresa de telecomunicaciones de América Latina. 
+- Jefe de Analítica para Monetización de Datos en importante empresa de telecomunicaciones de América Latina. 
 <br> **_Diciembre 2021 - Presente_**
 - Científico de Datos en importante empresa de telecomunicaciones de América Latina.
 <br> **_Enero 2020 - Diciembre 2021_**
@@ -30,6 +30,8 @@
 ---
 
 ## Formación Académica
+- Máster en Big Data - Escuela de Posgrado Newman. 
+<br> **_finalizando_**
 - Máster en Investigación de Mercados - Universidad Internacional de la Rioja. 
 <br> **_2018_**
 - Ingeniero Comercial - Universidad Católica de Santiago de Guayaquil.
@@ -49,7 +51,11 @@
 
 ## Certificaciones
 
-- [Data Science y Big Data: Decisiones basadas en datos. MITx](https://www.credential.net/0b6072d3-fea4-420c-8313-812a391bdd97#gs.y3xs7b)
+- [Big Data with PySpark. DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/c34de39e1bcff476c5af0ae604ae1b8e5c5f132f)
+- [Academy Accreditation - Databricks Fundamentals. Databricks](https://credentials.databricks.com/22173f6e-a977-4030-97a2-b92e4dc898f7#acc.sb3tSOLx)
+- [Machine Learning Specialization. Stanford University](https://www.coursera.org/account/accomplishments/specialization/Z8DT3CGHVDUK)
+- [Credit Scoring con Python. Sociedad Ecuatoriana de Estadística](https://media.licdn.com/dms/document/media/v2/D4E2DAQH-GdyPYbl5ww/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1699646012882?e=1747267200&v=beta&t=RAYAcecOUlRqEGwJZWVtEBma-_I_kSxyiKs8NBCbLZ4)
+-  [Data Science y Big Data: Decisiones basadas en datos. MITx](https://www.credential.net/0b6072d3-fea4-420c-8313-812a391bdd97#gs.y3xs7b)
 - [Inteligencia Artificial por Saturdays AI Guayaquil]()
 - [Data Science Foundation (Científico de Datos) por STEAM Center]()
 - [Data Science Professional Certificate por IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/S6C9PELLLP6X)
